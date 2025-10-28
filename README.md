@@ -22,6 +22,7 @@
 - Hackathon Enthusiast (🏆 2x Winner | 7+ hackathons attended)
 - Avid 🏀 Basketball / ⚽ Soccer Player
 
+##
 Reach me at [LinkedIn](https://www.linkedin.com/in/torenlong/) | torenlong@tamu.edu
 
 <!--
