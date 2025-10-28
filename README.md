@@ -2,7 +2,7 @@
 
 🎓 Computer Science @ Texas A&M University  
 💳 2x Previous SWE Intern @ Capital One  
-🧑‍🏫 Workshop Officer @ Aggie Data Science Club  
+🧑‍🏫 Workshop Officer @ [Aggie Data Science Club](https://www.linkedin.com/company/aggiedatascience)  
 
 ## 📚 About Me
 
