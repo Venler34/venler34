@@ -15,7 +15,7 @@
 - 💻 Languages: Python, Java, Golang, SQL, Javascript/Typscript, C++
 - ⚛️ Frameworks: Java Spring, Django, React, Next.js, Node.js, FastAPI
 - 🗄️ Databases: PostgreSQL, MongoDB, MySQL
-- ☁️ Cloud: AWS
+- ☁️ Cloud: AWS, Github
 
 ## 🌱 Outside Class
 
