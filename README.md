@@ -22,6 +22,10 @@
 - Hackathon Enthusiast (🏆 2x Winner | 7+ hackathons attended)
 - Avid 🏀 Basketball / ⚽ Soccer Player
 
+## Some HIGHLIGHT Projects
+
+!(Aggie Data Science Leaderboard Website)[https://github.com/Venler34/CompetitionWebsite/tree/main]
+
 ##
 Reach me at [LinkedIn](https://www.linkedin.com/in/torenlong/) | torenlong@tamu.edu
 
