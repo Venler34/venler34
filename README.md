@@ -24,9 +24,9 @@
 
 ## Some HIGHLIGHT Projects
 
-![Aggie Data Science Leaderboard Website](https://github.com/Venler34/CompetitionWebsite/tree/main)  
-![TAMU Due Date Tracker](https://github.com/Venler34/TAMU-Assignment-Tracker-aka-TAMUDues) 
-![American Airlines Hackathon Winning Project](https://devpost.com/software/afinda)
+<a href="https://github.com/Venler34/CompetitionWebsite/tree/main">Aggie Data Science Leaderboard Website</a>  
+<a href="https://github.com/Venler34/TAMU-Assignment-Tracker-aka-TAMUDues">TAMU Due Date Tracker</a>
+<a href="https://devpost.com/software/afinda">American Airlines Hackathon Winning Project</a>
 
 ##
 Reach me at [LinkedIn](https://www.linkedin.com/in/torenlong/) | torenlong@tamu.edu
