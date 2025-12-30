@@ -28,7 +28,7 @@
 ⏰ <a href="https://github.com/Venler34/TAMU-Assignment-Tracker-aka-TAMUDues">TAMU Due Date Tracker</a>  
 ✈️ <a href="https://devpost.com/software/afinda">American Airlines Hackathon Winning Project</a>
 
-## Current Project
+## 🎯 Current Project 🏀
 
 As a basketball player, I was interested in building software that could track the number of shots I can make. This way I can get metrics on statistics when shooting from different shots on the court. This way I can learn what I need to work on.  
 
