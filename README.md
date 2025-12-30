@@ -34,11 +34,11 @@ As a basketball player, I was interested in building software that could track t
 
 Currently working on model to predict number of shots made using transfer learning, here's a demo of what I got so far. I'm hoping to get this model to work with any basketball and any court.
 
-▶️ [Watch demo video](https://youtu.be/kD0KpX0SHkc)
+▶️ [Watch demo video](https://youtu.be/kD0KpX0SHkc){target="_blank"}
 
 
 ##
-Reach me at [LinkedIn](https://www.linkedin.com/in/torenlong/) | torenlong@tamu.edu
+Reach me at [LinkedIn](https://www.linkedin.com/in/torenlong/){target="_blank"} | torenlong@tamu.edu
 
 <!--
 **Venler34/venler34** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
