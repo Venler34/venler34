@@ -28,6 +28,17 @@
 ⏰ <a href="https://github.com/Venler34/TAMU-Assignment-Tracker-aka-TAMUDues">TAMU Due Date Tracker</a>  
 ✈️ <a href="https://devpost.com/software/afinda">American Airlines Hackathon Winning Project</a>
 
+## Current Project
+
+As a basketball player, I was interested in building software that could track the number of shots I can make. This way I can get metrics on statistics when shooting from different shots on the court. This way I can learn what I need to work on.  
+
+Currently working on model to predict number of shots made using transfer learning, here's a demo of what I got so far. I'm hoping to get this model to work with any basketball and any court.
+
+<video width="640" height="480" controls>
+  <source src="basketball_demo.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+
 ##
 Reach me at [LinkedIn](https://www.linkedin.com/in/torenlong/) | torenlong@tamu.edu
 
