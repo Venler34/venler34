@@ -34,7 +34,7 @@ As a basketball player, I was interested in building software that could track t
 
 Currently working on model to predict number of shots made using transfer learning, here's a demo of what I got so far. I'm hoping to get this model to work with any basketball and any court.
 
-▶️ <a href="https://youtu.be/kD0KpX0SHkc" target="_blank">Watch demo video</a>
+▶️ <a href="https://youtu.be/Z2lHshytBPU" target="_blank">Watch demo video</a>
 
 ##
 Reach me at <a href="https://www.linkedin.com/in/torenlong/" target="_blank">LinkedIn</a> | torenlong@tamu.edu
