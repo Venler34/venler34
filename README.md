@@ -19,7 +19,7 @@
 
 ## 🌱 Outside Class
 
-- Hackathon Enthusiast (🏆 2x Winner | 7+ hackathons attended)
+- Hackathon Enthusiast (🏆 4x Winner | 10+ hackathons attended)
 - Avid 🏀 Basketball / ⚽ Soccer Player
 
 ## Some HIGHLIGHT Projects
