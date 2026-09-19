@@ -1,8 +1,8 @@
 ## Hi there 👋 I'm Toren
 
-🎓 Computer Science @ Texas A&M University  
-💳 2x Previous SWE Intern @ Capital One  
-🧑‍🏫 Workshop Officer @ [Aggie Data Science Club](https://www.linkedin.com/company/aggiedatascience)  
+🎓 Computer Science @ Texas A&M University
+💳 Previous SWE Intern @ The Trade Desk and 2x Previous SWE Intern @ Capital One
+🧑‍🏫 Prev Workshop Officer @ [Aggie Data Science Club](https://www.linkedin.com/company/aggiedatascience)  
 
 ## 📚 About Me
 
