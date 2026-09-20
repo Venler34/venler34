@@ -1,9 +1,10 @@
 ## Hi there 👋 I'm Toren
 
 🎓 Computer Science @ Texas A&M University  
+🔎 Currently Undergraduate Researcher @ Aggie Graphics Group  
 📊 Previous SWE Intern @ The Trade Desk  
 💳 2x Previous SWE Intern @ Capital One  
-🧑‍🏫 Prev Workshop Officer @ [Aggie Data Science Club](https://www.linkedin.com/company/aggiedatascience)  
+🧑‍🏫 Previous Workshop Officer @ [Aggie Data Science Club](https://www.linkedin.com/company/aggiedatascience)  
 
 ## 📚 About Me
 
