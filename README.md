@@ -1,5 +1,7 @@
 ## Hi there 👋 I'm Toren
 
+![Profile Pic](Face.jpg)
+
 🎓 Computer Science @ Texas A&M University  
 🔎 Currently Undergraduate Researcher @ Aggie Graphics Group  
 📊 Previous SWE Intern @ The Trade Desk  
