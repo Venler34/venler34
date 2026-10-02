@@ -1,9 +1,7 @@
-<img src="Face.jpg" align="right" alt="Profile Banner" width="10%">
-
-
 ## Hi there, I'm Toren! 👋  
 
-  
+<img src="Face.jpg" align="right" alt="Profile Banner" width="10%">
+
 🎓 Computer Science @ Texas A&M University  
 🔎 Currently Undergraduate Researcher @ Aggie Graphics Group  
 📊 Previous SWE Intern @ The Trade Desk  
