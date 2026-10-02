@@ -1,6 +1,6 @@
 ## Hi there, I'm Toren! 👋  
 
-<img src="Face.jpg" align="right" alt="Profile Banner" hspace="160" width="10%">
+<img src="Face.jpg" align="right" alt="Profile Banner" hspace="100" width="10%">
 
 🎓 Computer Science @ Texas A&M University  
 🔎 Currently Undergraduate Researcher @ Aggie Graphics Group  
