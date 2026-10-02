@@ -1,21 +1,3 @@
-<table>
-  <tr>
-    <!-- Left Column: Your Text -->
-    <td valign="top">
-      <h3>Hi there 👋 I'm Toren</h3>
-      <p>🎓 Computer Science @ Texas A&M University</p>
-      <p>🔎 Currently Undergraduate Researcher @ Aggie Graphics Group</p>
-      <p>📊 Previous SWE Intern @ The Trade Desk</p>
-      <p>💳 2x Previous SWE Intern @ Capital One</p>
-      <p>🧑‍🏫 Previous Workshop Officer @ [Aggie Data Science Club](https://www.linkedin.com/company/aggiedatascience)</p>
-    </td>
-    <!-- Right Column: Your Image -->
-    <td valign="top" align="right">
-      <img src="Face.jpg" alt="Profile Banner" width="10%">
-    </td>
-  </tr>
-</table>
-
 <img src="Face.jpg" align="right" alt="Profile Banner" width="10%">
 
 🎓 Computer Science @ Texas A&M University  
