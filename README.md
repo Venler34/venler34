@@ -16,6 +16,14 @@
   </tr>
 </table>
 
+<img src="Face.jpg" align="right" alt="Profile Banner" width="10%">
+
+🎓 Computer Science @ Texas A&M University  
+🔎 Currently Undergraduate Researcher @ Aggie Graphics Group  
+📊 Previous SWE Intern @ The Trade Desk  
+💳 2x Previous SWE Intern @ Capital One  
+🧑‍🏫 Previous Workshop Officer @ [Aggie Data Science Club](https://www.linkedin.com/company/aggiedatascience)  
+
 ## 📚 About Me
 
 I'm really interested in solving complex problems where high throughput and speed are critical.   
